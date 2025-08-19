@@ -1,0 +1,41 @@
+{
+  "name": "houseil",
+  "version": "1.0.0",
+  "description": "HouseIL - A luxurious dark-themed AirBNB website focusing on high-end technology solutions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.20.0",
+    "axios": "^0.21.1",
+    "redux": "^4.1.0",
+    "react-redux": "^7.2.4",
+    "next": "^14.2.5",
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4",
+    "autoprefixer": "^10.4.19"
+  },
+  "devDependencies": {
+    "sass-loader": "^10.1.1",
+    "typescript": "^5.4.5",
+    "@types/node": "^20.14.2",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0"
+  },
+  "keywords": [
+    "AirBNB",
+    "luxury",
+    "dark design",
+    "technology",
+    "HouseIL"
+  ],
+  "author": "HouseIL Team",
+  "license": "ISC",
+  "private": true
+}
